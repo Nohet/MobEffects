@@ -1,0 +1,6 @@
+name: MobEffects
+version: ${project.version}
+main: me.nohet.mobeffects.Main
+api-version: 1.17
+authors: [ Nohet ]
+description: This plugin gives player potion effect for random amount of seconds after killing mob.
